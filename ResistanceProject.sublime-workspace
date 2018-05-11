@@ -1,0 +1,493 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"gs",
+				"gsTemp5Fail"
+			],
+			[
+				"roun",
+				"roundList"
+			],
+			[
+				"gsTemp",
+				"gsTemp5"
+			],
+			[
+				"r",
+				"round"
+			],
+			[
+				"round",
+				"round"
+			],
+			[
+				"num",
+				"numPlayers"
+			],
+			[
+				"pl",
+				"player"
+			],
+			[
+				"g",
+				"gamestate"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"get",
+				"getNumFails"
+			],
+			[
+				"pla",
+				"players"
+			],
+			[
+				"play",
+				"players"
+			],
+			[
+				"Pl",
+				"players"
+			],
+			[
+				"rou",
+				"roundList"
+			],
+			[
+				"roin",
+				"roundList"
+			],
+			[
+				"playe",
+				"playerID"
+			],
+			[
+				"all",
+				"alliance"
+			],
+			[
+				"tea",
+				"teamsWOSucc"
+			],
+			[
+				"teams",
+				"teamsWO"
+			],
+			[
+				"succ",
+				"success"
+			],
+			[
+				"compl",
+				"complete"
+			],
+			[
+				"team",
+				"teamsWOSucc"
+			],
+			[
+				"mii",
+				"missionResults"
+			],
+			[
+				"fail",
+				"failCount"
+			],
+			[
+				"mission",
+				"missionResults"
+			],
+			[
+				"mi",
+				"missionResults"
+			],
+			[
+				"TeamP",
+				"teamProb"
+			],
+			[
+				"teamsI",
+				"teamsInFail"
+			],
+			[
+				"Te",
+				"teamsFail"
+			],
+			[
+				"te",
+				"teamsFail"
+			],
+			[
+				"bad",
+				"badList"
+			],
+			[
+				"faile",
+				"failsNeeded"
+			],
+			[
+				"fai",
+				"failsNeeded"
+			],
+			[
+				"player",
+				"players"
+			],
+			[
+				"poss",
+				"possTeam"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"allian",
+				"allianceList"
+			],
+			[
+				"crea",
+				"createPV"
+			],
+			[
+				"alli",
+				"allianceList"
+			],
+			[
+				"a",
+				"alliance"
+			],
+			[
+				"_",
+				"__init__"
+			],
+			[
+				"temp",
+				"tempVote"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "GameState.py",
+			"settings":
+			{
+				"buffer_size": 3261,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "import random"
+			}
+		},
+		{
+			"file": "Player.py",
+			"settings":
+			{
+				"buffer_size": 433,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Test.py",
+			"settings":
+			{
+				"buffer_size": 3854,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/amart/OneDrive/Resistance"
+	],
+	"file_history":
+	[
+		"/E/Users/Arnold/OneDrive/OldVer/Resistance/TeamIter.py",
+		"/E/Users/Arnold/OneDrive/OldVer/Resistance/TeamProb.py",
+		"/E/Users/Arnold/OneDrive/OldVer/Resistance/Player.py",
+		"/E/Users/Arnold/OneDrive/OldVer/Resistance/GameState.py",
+		"/C/Users/amart/OneDrive/OldVer/Resistance/Player.py",
+		"/C/Users/amart/OneDrive/OldVer/Resistance/GameState.py",
+		"/C/Users/amart/OneDrive/Resistance/TestGameState",
+		"/C/Users/amart/OneDrive/OldVer/Resistance/TheResistance.py",
+		"/C/Users/amart/OneDrive/Resistance/GameState.py",
+		"/C/Users/amart/OneDrive/Resistance/Player.py",
+		"/C/Users/amart/OneDrive/Resistance/GameStateTest.py",
+		"/C/Users/amart/Desktop/goat.c",
+		"/C/Users/amart/OneDrive/Resistance/ComPlayers.py",
+		"/C/Users/amart/OneDrive/Resistance/round",
+		"/C/Users/amart/OneDrive/NodokaVote.py",
+		"/C/Users/amart/OneDrive/Resistance/test.c",
+		"/C/Users/amart/OneDrive/Resistance/test.py",
+		"/C/Users/amart/Documents/search/autograder.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"count",
+			"gsTemp10Fail.nextRound()",
+			"gsTemp10.nextRound()",
+			"gsTemp5.nextRound()",
+			"gsTemp10Fail.nextRound()",
+			"\"",
+			"allianceList",
+			"plr"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "GameState.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1870,
+								1870
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import random",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 962.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Player.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 433,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								433,
+								433
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "Test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3854,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ResistanceProject.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
