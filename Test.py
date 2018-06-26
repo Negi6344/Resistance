@@ -14,10 +14,10 @@ class GameStateCase(unittest.TestCase):
 		self.assertRaises(ValueError, gs.GameState, 11)
 
 	def test_alliance_creation(self):
-		self.assertItemsEqual(gs5.allianceList, [0 , 0, 1, 1, 1])
+		self.assertItemsEqual(gs5.allianceList, [-1 , -1, 1, 1, 1])
 
 	def test_alliance_creation1(self):
-		self.assertItemsEqual(gs7.allianceList, [0 , 0, 0, 1, 1, 1, 1])	
+		self.assertItemsEqual(gs7.allianceList, [-1 , -1, -1, 1, 1, 1, 1])	
 
 	def test_player_creation(self):
 		for player in gs5.playerList:
